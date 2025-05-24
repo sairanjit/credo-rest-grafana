@@ -11,8 +11,7 @@
   "dependencies": {
     "@credo-ts/rest": "^0.10.0",
     "body-parser": "^2.2.0",
-    "express": "^5.1.0",
-    "winston": "^3.17.0"
+    "express": "^5.1.0"
   },
   "devDependencies": {
     "@types/body-parser": "^1.19.5",
